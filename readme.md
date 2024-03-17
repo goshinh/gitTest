@@ -1,2 +1,2 @@
 # gitTest
-This Repos is for learning git.
+This Repository is for learning git.
