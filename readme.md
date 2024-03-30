@@ -1,3 +1,4 @@
+I am editing the README file. Adding some more details about the project description.
 # gitTest
 This Repository is for learning git.
 Git is a distributed version control system.
